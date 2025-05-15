@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\github\\10_calculator\\10_calculator\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|solutionrelative:10_calculator\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\github\\10_calculator\\10_calculator\\data\\datainputvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|solutionrelative:10_calculator\\data\\datainputvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\github\\10_calculator\\10_calculator\\migrations\\20250515094019_123.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|solutionrelative:10_calculator\\migrations\\20250515094019_123.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\github\\10_calculator\\10_calculator\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|solutionrelative:10_calculator\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\github\\10_calculator\\10_calculator\\data\\datainputvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|solutionrelative:10_calculator\\data\\datainputvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\github\\10_calculator\\10_calculator\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,6 +59,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\docker-compose.yml",
+              "RelativeDocumentMoniker": "10_Calculator\\docker-compose.yml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\docker-compose.yml",
+              "RelativeToolTip": "10_Calculator\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-05-15T10:24:30.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "20250515094019_123.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\Migrations\\20250515094019_123.cs",
               "RelativeDocumentMoniker": "10_Calculator\\Migrations\\20250515094019_123.cs",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "DataInputVariant.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\Data\\DataInputVariant.cs",
               "RelativeDocumentMoniker": "10_Calculator\\Data\\DataInputVariant.cs",
@@ -75,11 +92,12 @@
               "RelativeToolTip": "10_Calculator\\Data\\DataInputVariant.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T09:33:45.339Z"
+              "WhenOpened": "2025-05-15T09:33:45.339Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "KafkaConsumerService.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\KafkaConsumerService.cs",
               "RelativeDocumentMoniker": "10_Calculator\\KafkaConsumerService.cs",
@@ -91,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "KafkaProducerHandler.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\KafkaProducerHandler.cs",
               "RelativeDocumentMoniker": "10_Calculator\\KafkaProducerHandler.cs",
@@ -103,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CalculatorController.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\Controllers\\CalculatorController.cs",
               "RelativeDocumentMoniker": "10_Calculator\\Controllers\\CalculatorController.cs",
@@ -115,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Operation.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\Operation.cs",
               "RelativeDocumentMoniker": "10_Calculator\\Operation.cs",
@@ -127,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CalculatorLibrary.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\CalculatorLibrary.cs",
               "RelativeDocumentMoniker": "10_Calculator\\CalculatorLibrary.cs",
@@ -139,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CalculatorContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\Migrations\\CalculatorContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "10_Calculator\\Migrations\\CalculatorContextModelSnapshot.cs",
@@ -151,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "20241217101252_ggwp.Designer.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\Migrations\\20241217101252_ggwp.Designer.cs",
               "RelativeDocumentMoniker": "10_Calculator\\Migrations\\20241217101252_ggwp.Designer.cs",
@@ -163,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\Program.cs",
               "RelativeDocumentMoniker": "10_Calculator\\Program.cs",
