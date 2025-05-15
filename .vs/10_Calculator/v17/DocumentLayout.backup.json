@@ -1,12 +1,190 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\Migrations\\20250515094019_123.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:10_Calculator\\Migrations\\20250515094019_123.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\github\\10_calculator\\10_calculator\\kafkaproducerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|solutionrelative:10_calculator\\kafkaproducerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\github\\10_calculator\\10_calculator\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|solutionrelative:10_calculator\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\github\\10_calculator\\10_calculator\\data\\datainputvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|solutionrelative:10_calculator\\data\\datainputvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\github\\10_calculator\\10_calculator\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|solutionrelative:10_calculator\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\github\\10_calculator\\10_calculator\\calculatorlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|solutionrelative:10_calculator\\calculatorlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\github\\10_calculator\\10_calculator\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|solutionrelative:10_calculator\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\github\\10_calculator\\10_calculator\\migrations\\calculatorcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|solutionrelative:10_calculator\\migrations\\calculatorcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\github\\10_calculator\\10_calculator\\migrations\\20241217101252_ggwp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|solutionrelative:10_calculator\\migrations\\20241217101252_ggwp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\github\\10_calculator\\10_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E0F731-8205-404F-80DB-B74F7E149FAF}|10_Calculator\\10_Calculator.csproj|solutionrelative:10_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250515094019_123.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\Migrations\\20250515094019_123.cs",
+              "RelativeDocumentMoniker": "10_Calculator\\Migrations\\20250515094019_123.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\Migrations\\20250515094019_123.cs",
+              "RelativeToolTip": "10_Calculator\\Migrations\\20250515094019_123.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:40:20.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataInputVariant.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\Data\\DataInputVariant.cs",
+              "RelativeDocumentMoniker": "10_Calculator\\Data\\DataInputVariant.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\Data\\DataInputVariant.cs",
+              "RelativeToolTip": "10_Calculator\\Data\\DataInputVariant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:33:45.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KafkaConsumerService.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\KafkaConsumerService.cs",
+              "RelativeDocumentMoniker": "10_Calculator\\KafkaConsumerService.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\KafkaConsumerService.cs",
+              "RelativeToolTip": "10_Calculator\\KafkaConsumerService.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAD4v0oAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:29:48.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KafkaProducerHandler.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\KafkaProducerHandler.cs",
+              "RelativeDocumentMoniker": "10_Calculator\\KafkaProducerHandler.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\KafkaProducerHandler.cs",
+              "RelativeToolTip": "10_Calculator\\KafkaProducerHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:28:08.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "10_Calculator\\Controllers\\CalculatorController.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "10_Calculator\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwFMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:27:35.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\Operation.cs",
+              "RelativeDocumentMoniker": "10_Calculator\\Operation.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\Operation.cs",
+              "RelativeToolTip": "10_Calculator\\Operation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:29:58.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculatorLibrary.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\CalculatorLibrary.cs",
+              "RelativeDocumentMoniker": "10_Calculator\\CalculatorLibrary.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\CalculatorLibrary.cs",
+              "RelativeToolTip": "10_Calculator\\CalculatorLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:29:40.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculatorContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\Migrations\\CalculatorContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "10_Calculator\\Migrations\\CalculatorContextModelSnapshot.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\Migrations\\CalculatorContextModelSnapshot.cs",
+              "RelativeToolTip": "10_Calculator\\Migrations\\CalculatorContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:28:32.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241217101252_ggwp.Designer.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\Migrations\\20241217101252_ggwp.Designer.cs",
+              "RelativeDocumentMoniker": "10_Calculator\\Migrations\\20241217101252_ggwp.Designer.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\Migrations\\20241217101252_ggwp.Designer.cs",
+              "RelativeToolTip": "10_Calculator\\Migrations\\20241217101252_ggwp.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:28:13.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "10_Calculator\\Program.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\github\\10_Calculator\\10_Calculator\\Program.cs",
+              "RelativeToolTip": "10_Calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:26:00.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

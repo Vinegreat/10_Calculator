@@ -1,6 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Calculator.Data;
+using Microsoft.EntityFrameworkCore;
 
-namespace Calculator.Data
+namespace _10_Calculate.Data
 {
     public class CalculatorContext : DbContext
     {
@@ -12,7 +13,7 @@ namespace Calculator.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            //OnModelCreating(modelBuilder);
+            // Optionally add any model configurations here in the future.
         }
     }
 }

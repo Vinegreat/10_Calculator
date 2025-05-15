@@ -15,7 +15,7 @@ namespace _10_Calculator
 
             string mariadbCS = builder.Configuration.GetConnectionString("DefaultConnection");
 
-            builder.Services.AddDbContext<CalculatorContext>(options =>
+            builder.Services.AddDbContext<_10_Calculate.Data.CalculatorContext>(options =>
             {
                 options.UseMySql(mariadbCS, new MySqlServerVersion(new Version(10, 5, 15)));
             });
